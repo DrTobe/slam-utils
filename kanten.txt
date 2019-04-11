@@ -1,0 +1,8 @@
+9 x 6 Schachbrett
+5 kanten = 126 mm
+
+     f_x   0   c_x
+A =   0   f_y  c_y
+      0    0    1
+
+dist = (k1,k2,p1,p2[,k3[,k4,k5,k6[,s1,s2,s3,s4[,τx,τy]]]])
